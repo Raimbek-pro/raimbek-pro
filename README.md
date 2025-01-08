@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Download Across ALA on the app store now
+![Alt Text](./images/poster_ala.png)
 <!--
 **Raimbek-pro/raimbek-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
